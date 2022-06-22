@@ -66,7 +66,7 @@ export const Header = () => {
               </a>
               <a
                 className="flex flex-col items-center justify-center space-y-1 transition-colors hover:text-[#000000] dark:hover:text-white"
-                href="/adgfffg"
+                href="#events"
               >
                 <div className="flex flex-col items-center space-y-1 font-semibold">
                   <div>
@@ -90,7 +90,7 @@ export const Header = () => {
               </a>
               <a
                 className="flex flex-col items-center justify-center space-y-1 transition-colors hover:text-[#000000] dark:hover:text-white"
-                href="/sadffdg"
+                href="#team"
               >
                 <div className="flex flex-col items-center space-y-1 font-semibold">
                   <div>
@@ -112,7 +112,7 @@ export const Header = () => {
                   <span>Team</span>
                 </div>
               </a>
-              <a href="/aasdgf">
+              <a href="/blog">
                 <div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
